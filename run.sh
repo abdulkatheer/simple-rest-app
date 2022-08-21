@@ -1,0 +1,1 @@
+SERVER_PORT=9004 java -jar target/simple-rest-app-0.0.1-SNAPSHOT.jar
